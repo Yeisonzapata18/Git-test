@@ -1,0 +1,6 @@
+Titulo: como usar el git
+git init: empezar un repositorio
+git status: mirar que gits estan cambiados
+git add: agregar los gits al master
+git commit: crea un commit
+git log: muestra el historial de commit
