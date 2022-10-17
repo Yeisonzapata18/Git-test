@@ -1,6 +1,7 @@
 Titulo: como usar el git
 git init: empezar un repositorio
-git status: mirar que gits estan cambiados
+git status: muestra el estado del repositorio
 git add: agregar los gits al master
-git commit: crea un commit
+git commit -m: crea un commit
 git log: muestra el historial de commit
+git commit: toca poner el nombre del commit y escribir :wq and enter
