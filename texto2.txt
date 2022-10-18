@@ -1,3 +1,4 @@
 Repositorios remotos; USAR PAG git
 git remote :
 git remote -v: nos dice la url donde se replica el commit
+git fetch '': actualiza los cambios que haya tenido el github remoto
