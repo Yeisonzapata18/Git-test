@@ -5,3 +5,4 @@ git checkout -b '': crear rama y nos ubica en la rama (USAR ESTE)
 git branch -m : cambiar el nomnbre a una rama
 git merge 'rama#':agrega rama al master
 git branch -d: se usa para eliminar una RAMAS si no deja es -D
+git checkout --[nombre de archivo]: permite deshacer cambios en un archivo específico, para volver a la versión del archivo como estaba en el último commit.
