@@ -6,3 +6,4 @@ git commit -m: crea un commit
 git log: muestra el historial de commit
 git commit: toca poner el nombre del commit y escribir :wq and enter
 git diff: muestra los cambios antes de git add .
+git log --oneline | Measure-object -line: cuenta las lineas que tenga

@@ -1,2 +1,3 @@
-comandos
-cambio desde master
+Repositorios remotos; USAR PAG git
+git remote :
+git remote -v: nos dice la url donde se replica el commit
