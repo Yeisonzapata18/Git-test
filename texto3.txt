@@ -4,3 +4,4 @@ git checkout '': para cambiarnos de rama
 git checkout -b '': crear rama y nos ubica en la rama (USAR ESTE)
 git branch -m : cambiar el nomnbre a una rama
 git merge 'rama#':agrega rama al master
+git branch -d: se usa para eliminar una RAMAS si no deja es -D
