@@ -1,4 +1,8 @@
 Repositorios remotos; USAR PAG git
 git remote :
 git remote -v: nos dice la url donde se replica el commit
-git fetch '': actualiza los cambios que haya tenido el github remoto
+git remote add 'nombre' url: se usa para agregar un git remoto
+git push -u 'nombre' rama/master: se usa para proyectar el git remeto
+Ya que se puedo "-u", ya solo se puede con push, solo "-u" primera vez
+git fetch 'nombre del github': actualiza los cambios que haya tenido el github remoto
+git clone ulr: funciona para volver a poner los commit que tengamos en el github al local
